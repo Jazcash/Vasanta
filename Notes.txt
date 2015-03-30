@@ -14,3 +14,10 @@ Th entire UX / UI strategy I went for was a minimal design with heavy use of whi
 
 - It said in the spec: "It must also be clear for each type of user (existing and new) how they can buy the product".
 I thought about this and came to the conclusion that the button to buy Tune-ify should be the same button for both existing and new customers and that new customers would simply be redirected to a Vasanta account creation page prior to the purchase procedure actually taking place. This would mostly be handled server-side and would check to see if the viewer is actually logged into a Vasanta account or not.
+
+- Not being able to resize images via max-width/max-height percentages in CSS can cause some annoying horizontal scrollbars in IE6 if the browser is shrunk too small. In hindsight, I should have written a small JS snippet just to deal with this problem.
+
+- I used http://www.browserstack.com/screenshots for generating the browser screenshots
+
+
+Overall I was quite happy with the design and hope you like it too!
