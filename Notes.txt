@@ -20,4 +20,6 @@ I thought about this and came to the conclusion that the button to buy Tune-ify 
 - I used http://www.browserstack.com/screenshots for generating the browser screenshots
 
 
+I ended up spending roughly an hour on the sketches and mockup, then the rest of the time on the implementation with some of my spare time spent just making the logo and feature icons. I did a bit of polishing like the button animation afterwards too.
+
 Overall I was quite happy with the design and hope you like it too!
