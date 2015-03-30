@@ -1,0 +1,9 @@
+- I started out with some sketches on paper just to get a rough idea of the basic layout of the page.
+
+- I then took to Fireworks to build a mockup of the page. This mockup let me experient with different white-space, font faces, sizes, colours and general positioning to ensure I didn't spend the coding phase still doing design. The mockup attached includes a custom logo and icons but these were added after the design was implemented.
+
+- Before implementing the design, I made sure I had Firefox, Chrome and IE6 available for quick-testing. Safari was a problem as Apple stopped supporting the Windows build a couple of years ago. However, as Safari also uses webkit for rendering I did not consider this a huge problem and knew I could text it in a virtual platform afterwards.
+
+- Before beginning, I knew I would probably need Javascript at some point to work-around old browser rendering issues, although, I wanted to minimise my use of JS as much as possible due to it impacting load times and causing issues on non-JS or minimal-JS platforms such as some mobile browsers. Surprisingly, I always managed to find a CSS-only solution which means the whole page is JS-free! The only exception is the single, inline IE expression used to set the max-width of the layout as IE6  doesn't support max-width.
+
+- After a lot of battling with IE6 I eventually managed to get the whole page responsive with all browsers on all platforms without any real loss of appearance or functionality anywhere.
